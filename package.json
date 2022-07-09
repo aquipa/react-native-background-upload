@@ -21,10 +21,6 @@
     "react-native",
     "react"
   ],
-  "peerDependencies": {
-    "react": "*",
-    "react-native": ">=0.47.0"
-  },
   "author": "Steve Potter",
   "license": "BSD-3-Clause",
   "bugs": {
